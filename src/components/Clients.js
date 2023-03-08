@@ -11,16 +11,15 @@ export default function MediaCard() {
     <Card sx={{  }}>
       <CardMedia
         sx={{ height: 140 }}
-        image="https://picsum.photos/400/200"
-        title="green iguana"
+        image="https://picsum.photos/id/237/400/200"
+        title="Doggie"
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
-          Lizard
+          Cute dog
         </Typography>
         <Typography variant="body2" color="text.secondary">
-          Lizards are a widespread group of squamate reptiles, with over 6,000
-          species, ranging across all continents except Antarctica
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean tempor tempor rutrum. Aliquam scelerisque ligula rhoncus enim consequat lacinia. Suspendisse ac ornare sapien, eu fermentum arcu. In malesuada ut libero et tincidunt. 
         </Typography>
       </CardContent>
       <CardActions>

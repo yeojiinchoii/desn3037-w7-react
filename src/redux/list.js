@@ -1,11 +1,11 @@
 import { createSlice } from '@reduxjs/toolkit'
 
 const initialState = {
-    field: "Lorem ipsum",
+    field: "Yeojin",
     items: [
-        "Lazy dog",
-        "Quick brown fox",
-        "Chris Kim"
+        "Dog",
+        "Cat",
+        "Apple"
     ]
 }
 
