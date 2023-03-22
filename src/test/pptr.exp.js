@@ -8,7 +8,8 @@ const puppeteer = require('puppeteer');
   // GO TO REACT WEBSITE
 //   await page.goto('http://localhost:3000');
 //   await page.goto('http://google.com');
-    await page.goto('https://www.instagram.com/');
+// await page.goto('https://www.instagram.com/');
+    await page.goto('https://github.com/yeojiinchoii/desn3037-w7-react.git');
 
   // Set screen size
   await page.setViewport({width: 720, height: 480});
